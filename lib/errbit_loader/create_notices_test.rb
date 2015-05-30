@@ -8,6 +8,7 @@ class CreateNoticeTest
     @key = key
     @hydra = Typhoeus::Hydra.new(max_concurrency: @concurrency)
     @results = {}
+    @requests = {}
 
     prepare
   end
@@ -16,6 +17,7 @@ class CreateNoticeTest
     @count.times do
       r = request
       r.on_complete(&method(:on_complete))
+      @results[r.object_id] = { started_at: Time.now }
       @hydra.queue r
     end
   end
@@ -34,20 +36,27 @@ class CreateNoticeTest
   end
 
   def on_complete(response)
+    result = @results[response.request.object_id]
+
     if response.timed_out?
-      add_timeout
+      result[:status] = 'timeout'
     else
-      add_code(response.code)
+      result[:status] = response.code
+      result[:ended_at] = Time.now
+      result[:response_time] = result[:ended_at] - result[:started_at]
     end
   end
 
-  def add_timeout
-    @results['timeout'] ||= 0
-    @results['timeout'] += 1
-  end
+  def report
+    response_times = @results.values.map { |r| r[:response_time] }.sort
 
-  def add_code(code)
-    @results[code] ||= 0
-    @results[code] += 1
+    {
+      max: response_times.max,
+      min: response_times.min,
+      avg: response_times.inject(0.0) { |sum, el| sum + el } / response_times.size,
+      p90: response_times[(0.90 * response_times.size).round - 1],
+      p95: response_times[(0.95 * response_times.size).round - 1],
+      p99: response_times[(0.99 * response_times.size).round - 1],
+    }
   end
 end

@@ -6,15 +6,23 @@ require './lib/errbit_loader'
 
 Dotenv.load('.env')
 
-create_notices = CreateNoticeTest.new(
+reports = []
+
+reports << CreateNoticeTest.new(
   count: ENV['CREATE_NOTICES_COUNT'].to_i,
   concurrency: ENV['CREATE_NOTICES_CONCURRENCY'].to_i,
   host: ENV['ERRBIT_HOST'],
   key: ENV['ERRBIT_APP_KEY']
 )
 
-Benchmark.bm do |x|
-  x.report { create_notices.run }
-end
 
-puts create_notices.results
+reports.each do |report|
+  puts report.class.name
+  puts '----------------------------------------------------------------------'
+
+  report.run
+  report.report.each do |k,v|
+    spaces = 20 - k.length
+    puts sprintf("#{k}%#{spaces}f", v)
+  end
+end
