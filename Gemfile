@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem 'nokogiri'
-gem 'typhoeus'
 gem 'dotenv'
+gem 'http-cookie'
+gem 'nokogiri'
 gem 'pry-byebug'
+gem 'typhoeus'

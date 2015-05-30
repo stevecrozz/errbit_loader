@@ -1,33 +1,32 @@
-class CreateNoticeTest
+class CreateNoticesTest
   attr_reader :results
+  attr_reader :count
+  attr_reader :concurrency
 
   def initialize(count:, concurrency:, host:, key:)
     @count = count
     @concurrency = concurrency
     @host = host
+    @location = host + '/notifier_api/v2/notices'
     @key = key
     @hydra = Typhoeus::Hydra.new(max_concurrency: @concurrency)
     @results = {}
     @requests = {}
-
-    prepare
   end
 
   def prepare
     @count.times do
       r = request
       r.on_complete(&method(:on_complete))
-      @results[r.object_id] = { started_at: Time.now }
+      @results[r.object_id] = {}
       @hydra.queue r
     end
   end
 
   def request
-    Typhoeus::Request.new(@host,
+    Typhoeus::Request.new(@location,
       method: :post,
-      body: ErrbitLoader::Notice.generate(@key).to_xml,
-      #params: { field1: "a field" },
-      #headers: { Accept: "text/html" }
+      body: ErrbitLoader::Notice.generate(@key).to_xml
     )
   end
 
@@ -42,21 +41,22 @@ class CreateNoticeTest
       result[:status] = 'timeout'
     else
       result[:status] = response.code
-      result[:ended_at] = Time.now
-      result[:response_time] = result[:ended_at] - result[:started_at]
+      result[:response_time] = response.options[:total_time]
     end
   end
 
   def report
     response_times = @results.values.map { |r| r[:response_time] }.sort
+    successes = @results.values.size { |r| r[:status] == 200 }
 
     {
+      errors: response_times.size - successes,
       max: response_times.max,
       min: response_times.min,
-      avg: response_times.inject(0.0) { |sum, el| sum + el } / response_times.size,
-      p90: response_times[(0.90 * response_times.size).round - 1],
-      p95: response_times[(0.95 * response_times.size).round - 1],
-      p99: response_times[(0.99 * response_times.size).round - 1],
+      avg: response_times.inject(0.0) { |sum, el| sum + el } / successes,
+      p90: response_times[(0.90 * successes).round - 1],
+      p95: response_times[(0.95 * successes).round - 1],
+      p99: response_times[(0.99 * successes).round - 1],
     }
   end
 end
