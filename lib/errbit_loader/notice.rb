@@ -1,3 +1,5 @@
+require 'random-word'
+
 module ErrbitLoader
   class Notice
     VERSION = '2.4'
@@ -118,6 +120,15 @@ module ErrbitLoader
       username: 'mrbean'
     }
 
+    # 10% of the time, something random
+    def self.random_message
+      if rand < 0.1
+        RandomWord.phrases.next
+      else
+        ERROR_MESSAGES.sample
+      end
+    end
+
     def self.generate key
       doc = Nokogiri::XML::Builder.new do |xml|
         xml.notice version: VERSION do |notice|
@@ -130,7 +141,7 @@ module ErrbitLoader
           notice.framework FRAMEWORK
           notice.error do |error|
             error.class_ ERROR_CLASSES.sample
-            error.message ERROR_MESSAGES.sample
+            error.message random_message
             error.backtrace do |backtrace|
               BACKTRACE.each do |line|
                 backtrace.line line
