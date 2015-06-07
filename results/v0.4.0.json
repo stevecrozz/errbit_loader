@@ -1,1 +1,2802 @@
-[{"creates":{"errors":0,"max":1.265111,"min":1.036869,"avg":1.0506014730000004,"p90":1.064337,"p95":1.073553,"p99":1.099031,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.952748358},"searches":{"errors":0,"max":0.563923,"min":0.14742500000000003,"avg":0.3144400530000007,"p90":0.412768,"p95":0.44549000000000005,"p99":0.513298,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":39.604456283}},{"creates":{"errors":0,"max":1.19109,"min":1.0366360000000001,"avg":1.0506216280000007,"p90":1.066721,"p95":1.073393,"p99":1.102183,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.92620498},"searches":{"errors":0,"max":0.648235,"min":0.07214,"avg":0.3320848809999996,"p90":0.437131,"p95":0.467909,"p99":0.543048,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":41.857749175}},{"creates":{"errors":0,"max":1.210312,"min":1.036863,"avg":1.0549109440000006,"p90":1.072884,"p95":1.085073,"p99":1.127303,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.278761793},"searches":{"errors":0,"max":0.591568,"min":0.112082,"avg":0.3471494530000003,"p90":0.459288,"p95":0.497096,"p99":0.546526,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":43.729890677}},{"creates":{"errors":0,"max":1.2645849999999998,"min":1.037171,"avg":1.0540985850000002,"p90":1.070369,"p95":1.0770469999999999,"p99":1.101146,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.245885341},"searches":{"errors":0,"max":0.795481,"min":0.084078,"avg":0.392426121,"p90":0.517611,"p95":0.5485439999999999,"p99":0.605912,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":49.358229538}},{"creates":{"errors":0,"max":1.193208,"min":1.037918,"avg":1.0550606029999994,"p90":1.072786,"p95":1.081007,"p99":1.113317,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.230534595},"searches":{"errors":0,"max":0.728139,"min":0.077019,"avg":0.40644262000000014,"p90":0.533243,"p95":0.566047,"p99":0.6264959999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":51.149869209}},{"creates":{"errors":0,"max":1.184932,"min":1.038569,"avg":1.0523881240000006,"p90":1.068816,"p95":1.078775,"p99":1.109752,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.3376491},"searches":{"errors":0,"max":1.1945649999999999,"min":0.111886,"avg":0.49824744499999973,"p90":0.685143,"p95":0.765035,"p99":0.930747,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":62.724823537}},{"creates":{"errors":0,"max":1.267843,"min":1.039261,"avg":1.0585631219999996,"p90":1.07733,"p95":1.091564,"p99":1.175292,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.846474539},"searches":{"errors":0,"max":0.692716,"min":0.076161,"avg":0.4245978619999999,"p90":0.544667,"p95":0.575349,"p99":0.631821,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":53.439537143}},{"creates":{"errors":0,"max":1.206299,"min":1.042781,"avg":1.055062647,"p90":1.068696,"p95":1.07791,"p99":1.106564,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.350515182},"searches":{"errors":0,"max":0.755599,"min":0.10946199999999995,"avg":0.4475192049999998,"p90":0.564059,"p95":0.602616,"p99":0.678388,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":56.375901292}},{"creates":{"errors":0,"max":1.210303,"min":1.041846,"avg":1.0559738059999992,"p90":1.070265,"p95":1.080657,"p99":1.104476,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.583288987},"searches":{"errors":0,"max":0.717016,"min":0.103355,"avg":0.4488902180000004,"p90":0.577284,"p95":0.605731,"p99":0.660046,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":56.511197107}},{"creates":{"errors":0,"max":1.205084,"min":1.044311,"avg":1.0554926199999997,"p90":1.072066,"p95":1.0812,"p99":1.105055,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.52209537},"searches":{"errors":0,"max":0.702968,"min":0.101981,"avg":0.45342329200000053,"p90":0.574608,"p95":0.603559,"p99":0.668354,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":57.061404519}},{"creates":{"errors":0,"max":1.196926,"min":1.044391,"avg":1.0560148040000004,"p90":1.07264,"p95":1.081178,"p99":1.112684,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.546415137},"searches":{"errors":0,"max":0.770428,"min":0.102793,"avg":0.4600663870000002,"p90":0.584921,"p95":0.617638,"p99":0.6633290000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":57.86045398}},{"creates":{"errors":0,"max":1.20112,"min":1.044405,"avg":1.0557750280000013,"p90":1.069426,"p95":1.079969,"p99":1.102615,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.458183798},"searches":{"errors":0,"max":0.780376,"min":0.111076,"avg":0.4696117420000002,"p90":0.593988,"p95":0.621918,"p99":0.686053,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":59.058924328}},{"creates":{"errors":0,"max":1.208734,"min":1.044459,"avg":1.0552390830000018,"p90":1.068759,"p95":1.080004,"p99":1.111448,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.470992889},"searches":{"errors":0,"max":0.755212,"min":0.113198,"avg":0.47682021100000016,"p90":0.597166,"p95":0.635902,"p99":0.680031,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":59.973911813}},{"creates":{"errors":0,"max":1.238079,"min":1.044563,"avg":1.0546386989999994,"p90":1.067711,"p95":1.078124,"p99":1.1173980000000001,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.413178038},"searches":{"errors":0,"max":0.768091,"min":0.125317,"avg":0.48629422900000036,"p90":0.606287,"p95":0.639807,"p99":0.689468,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":61.214251788}},{"creates":{"errors":0,"max":1.230078,"min":1.044604,"avg":1.0553781720000006,"p90":1.070998,"p95":1.077526,"p99":1.105743,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.501308251},"searches":{"errors":0,"max":0.755437,"min":0.107918,"avg":0.48683473099999974,"p90":0.603613,"p95":0.640709,"p99":0.699588,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":61.282619835}},{"creates":{"errors":0,"max":1.2076090000000002,"min":1.044603,"avg":1.0547356390000002,"p90":1.068683,"p95":1.081196,"p99":1.105947,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.368610176},"searches":{"errors":0,"max":0.788642,"min":0.092996,"avg":0.48499860200000033,"p90":0.596421,"p95":0.628795,"p99":0.687704,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":61.088361261}},{"creates":{"errors":0,"max":1.205145,"min":1.044406,"avg":1.0545876269999999,"p90":1.069183,"p95":1.078774,"p99":1.10628,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.408848126},"searches":{"errors":0,"max":0.755927,"min":0.147099,"avg":0.4888971189999993,"p90":0.605254,"p95":0.636755,"p99":0.684314,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":61.530849915}},{"creates":{"errors":0,"max":1.209876,"min":1.043574,"avg":1.0543866560000017,"p90":1.069016,"p95":1.0770710000000001,"p99":1.10309,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.233720957},"searches":{"errors":0,"max":0.756974,"min":0.100396,"avg":0.4989712700000002,"p90":0.6168819999999999,"p95":0.646746,"p99":0.708619,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":62.753870192}},{"creates":{"errors":0,"max":1.1993,"min":1.043515,"avg":1.0534406809999999,"p90":1.067355,"p95":1.076392,"p99":1.102709,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.282664043},"searches":{"errors":0,"max":0.758446,"min":0.127407,"avg":0.5003519030000007,"p90":0.6213850000000001,"p95":0.650131,"p99":0.7108209999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":62.952341229}},{"creates":{"errors":0,"max":1.20991,"min":1.043591,"avg":1.0544653080000002,"p90":1.069491,"p95":1.07941,"p99":1.107175,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.462289939},"searches":{"errors":0,"max":0.829912,"min":0.14864,"avg":0.5075207600000001,"p90":0.621583,"p95":0.64971,"p99":0.7016370000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":63.860381695}},{"creates":{"errors":0,"max":1.197619,"min":1.043568,"avg":1.0547822050000009,"p90":1.069266,"p95":1.079845,"p99":1.099659,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.403592168},"searches":{"errors":0,"max":0.821966,"min":0.1296,"avg":0.5035360659999998,"p90":0.616632,"p95":0.645899,"p99":0.7165,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":63.363898001}},{"creates":{"errors":0,"max":1.198399,"min":1.043722,"avg":1.054016308000001,"p90":1.0664069999999999,"p95":1.073912,"p99":1.108758,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.338868618},"searches":{"errors":0,"max":0.755866,"min":0.140778,"avg":0.5113716420000008,"p90":0.6197550000000001,"p95":0.651946,"p99":0.695108,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":64.333942931}},{"creates":{"errors":0,"max":1.196441,"min":1.043531,"avg":1.0541410479999997,"p90":1.070432,"p95":1.079809,"p99":1.113026,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.231682561},"searches":{"errors":0,"max":0.762813,"min":0.175969,"avg":0.5132173489999998,"p90":0.6180030000000001,"p95":0.649799,"p99":0.712623,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":64.580458356}},{"creates":{"errors":0,"max":1.205621,"min":1.043394,"avg":1.0533107299999989,"p90":1.067966,"p95":1.078954,"p99":1.108834,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.455998251},"searches":{"errors":0,"max":0.771999,"min":0.16002400000000006,"avg":0.5199742130000004,"p90":0.632169,"p95":0.669501,"p99":0.716222,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":65.394614493}},{"creates":{"errors":0,"max":1.208262,"min":1.043571,"avg":1.0542382499999994,"p90":1.068665,"p95":1.077778,"p99":1.107037,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.375368964},"searches":{"errors":0,"max":0.765452,"min":0.164597,"avg":0.5325362029999999,"p90":0.640352,"p95":0.670883,"p99":0.715948,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":66.977915314}},{"creates":{"errors":0,"max":1.195465,"min":1.043564,"avg":1.0541870360000012,"p90":1.068409,"p95":1.079392,"p99":1.108912,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.283526254},"searches":{"errors":0,"max":0.769193,"min":0.155422,"avg":0.5256700020000004,"p90":0.641376,"p95":0.667422,"p99":0.703964,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":66.177016764}},{"creates":{"errors":0,"max":1.201192,"min":1.043625,"avg":1.0554602170000018,"p90":1.071354,"p95":1.079604,"p99":1.108712,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.426458136},"searches":{"errors":0,"max":0.800863,"min":0.164753,"avg":0.5400246810000005,"p90":0.656655,"p95":0.6828190000000001,"p99":0.723516,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":67.941462388}},{"creates":{"errors":0,"max":1.227442,"min":1.0436299999999998,"avg":1.0542152090000014,"p90":1.07049,"p95":1.079847,"p99":1.111712,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.37127236},"searches":{"errors":0,"max":0.754225,"min":0.18259599999999998,"avg":0.5438342870000004,"p90":0.658481,"p95":0.680885,"p99":0.72094,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":68.441391384}},{"creates":{"errors":0,"max":1.197665,"min":1.043347,"avg":1.0530740589999985,"p90":1.06481,"p95":1.077409,"p99":1.104746,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.452446961},"searches":{"errors":0,"max":0.827377,"min":0.141851,"avg":0.545235778,"p90":0.654593,"p95":0.683913,"p99":0.733331,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":68.550088706}},{"creates":{"errors":0,"max":1.199908,"min":1.043571,"avg":1.0553504509999994,"p90":1.0722239999999998,"p95":1.08093,"p99":1.1226,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.487996295},"searches":{"errors":0,"max":0.794395,"min":0.136314,"avg":0.5506873510000001,"p90":0.655044,"p95":0.684068,"p99":0.735652,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":69.212827257}},{"creates":{"errors":0,"max":1.204061,"min":1.04343,"avg":1.0538018710000008,"p90":1.067626,"p95":1.077994,"p99":1.121504,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.36211522},"searches":{"errors":0,"max":0.82673,"min":0.138242,"avg":0.5612470140000001,"p90":0.67001,"p95":0.695515,"p99":0.7568699999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":70.517440453}},{"creates":{"errors":0,"max":1.192042,"min":1.043657,"avg":1.0554584009999994,"p90":1.071609,"p95":1.078801,"p99":1.118838,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.433609263},"searches":{"errors":0,"max":0.836091,"min":0.133737,"avg":0.5572231129999996,"p90":0.657988,"p95":0.696525,"p99":0.751458,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":70.053757477}},{"creates":{"errors":0,"max":1.214974,"min":1.043486,"avg":1.0535089949999996,"p90":1.066414,"p95":1.076985,"p99":1.1007500000000001,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.273070076},"searches":{"errors":0,"max":0.795317,"min":0.21881300000000004,"avg":0.5622035209999998,"p90":0.66578,"p95":0.6957340000000001,"p99":0.755267,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":70.672647659}},{"creates":{"errors":0,"max":1.188288,"min":1.043551,"avg":1.0536589269999999,"p90":1.067445,"p95":1.079095,"p99":1.113654,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.227240983},"searches":{"errors":0,"max":0.827287,"min":0.177204,"avg":0.5653952090000003,"p90":0.674902,"p95":0.704683,"p99":0.7575000000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":71.077902434}},{"creates":{"errors":0,"max":1.211226,"min":1.043311,"avg":1.0535057469999984,"p90":1.065778,"p95":1.078689,"p99":1.110343,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.191365225},"searches":{"errors":0,"max":0.861693,"min":0.166084,"avg":0.5658702439999994,"p90":0.666581,"p95":0.68979,"p99":0.744386,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":71.174562034}},{"creates":{"errors":0,"max":1.183945,"min":1.043321,"avg":1.053247400000003,"p90":1.069623,"p95":1.076085,"p99":1.105748,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.21972365},"searches":{"errors":0,"max":0.812981,"min":0.166989,"avg":0.5762217609999994,"p90":0.678318,"p95":0.706961,"p99":0.755171,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":72.405595843}},{"creates":{"errors":0,"max":1.198855,"min":1.043604,"avg":1.0539686439999991,"p90":1.068479,"p95":1.078139,"p99":1.110489,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.240908397},"searches":{"errors":0,"max":0.840787,"min":0.241718,"avg":0.5824175399999996,"p90":0.683204,"p95":0.706964,"p99":0.761946,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":73.259676131}},{"creates":{"errors":0,"max":1.1996769999999999,"min":1.043433,"avg":1.0551430049999995,"p90":1.071914,"p95":1.0817,"p99":1.119582,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.542747152},"searches":{"errors":0,"max":0.8258030000000001,"min":0.204527,"avg":0.5859485019999985,"p90":0.690694,"p95":0.714563,"p99":0.76265,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":73.655808775}},{"creates":{"errors":0,"max":1.218022,"min":1.04359,"avg":1.0545138799999998,"p90":1.068906,"p95":1.079202,"p99":1.114045,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.200066204},"searches":{"errors":0,"max":0.861285,"min":0.193305,"avg":0.5936029429999992,"p90":0.699749,"p95":0.722877,"p99":0.776239,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":74.672564921}},{"creates":{"errors":0,"max":1.229321,"min":1.043496,"avg":1.0553318809999992,"p90":1.069107,"p95":1.079502,"p99":1.129164,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.423551412},"searches":{"errors":0,"max":0.81639,"min":0.183563,"avg":0.602330043999999,"p90":0.701208,"p95":0.726328,"p99":0.781984,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":75.76700201}},{"creates":{"errors":0,"max":1.203411,"min":1.043716,"avg":1.0550718930000011,"p90":1.072116,"p95":1.080532,"p99":1.107427,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.35382533},"searches":{"errors":0,"max":0.835358,"min":0.210376,"avg":0.5994688590000012,"p90":0.699404,"p95":0.724738,"p99":0.779815,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":75.36390539}},{"creates":{"errors":0,"max":1.194339,"min":1.043534,"avg":1.0534037579999986,"p90":1.066211,"p95":1.076095,"p99":1.123316,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.161140952},"searches":{"errors":0,"max":0.81435,"min":0.20887699999999998,"avg":0.6019788610000008,"p90":0.703634,"p95":0.728122,"p99":0.769099,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":75.644266043}},{"creates":{"errors":0,"max":1.19006,"min":1.043562,"avg":1.053680408,"p90":1.066212,"p95":1.077516,"p99":1.120145,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.271087123},"searches":{"errors":0,"max":0.884255,"min":0.196094,"avg":0.6085910930000005,"p90":0.710617,"p95":0.746766,"p99":0.790964,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":76.52791308}},{"creates":{"errors":0,"max":1.207879,"min":1.043593,"avg":1.0540270480000005,"p90":1.065532,"p95":1.08189,"p99":1.124939,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.199823058},"searches":{"errors":0,"max":0.852562,"min":0.18573399999999995,"avg":0.6149545850000007,"p90":0.710776,"p95":0.741023,"p99":0.782313,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":77.29490584}},{"creates":{"errors":0,"max":1.268785,"min":1.043323,"avg":1.0539752629999983,"p90":1.068598,"p95":1.07765,"p99":1.111662,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.378791051},"searches":{"errors":0,"max":0.852957,"min":0.19532099999999997,"avg":0.6143318599999997,"p90":0.720289,"p95":0.746759,"p99":0.795971,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":77.22844498}},{"creates":{"errors":0,"max":1.202855,"min":1.043464,"avg":1.0530704429999989,"p90":1.066012,"p95":1.080655,"p99":1.123265,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.247657046},"searches":{"errors":0,"max":0.854105,"min":0.199682,"avg":0.623472992999999,"p90":0.720066,"p95":0.748735,"p99":0.790366,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":78.369546882}},{"creates":{"errors":0,"max":1.21008,"min":1.043333,"avg":1.0545112120000013,"p90":1.070076,"p95":1.079875,"p99":1.116418,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.350422111},"searches":{"errors":0,"max":0.888181,"min":0.172799,"avg":0.6296635389999999,"p90":0.728126,"p95":0.759486,"p99":0.8196680000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":79.159827695}},{"creates":{"errors":0,"max":1.211154,"min":1.043298,"avg":1.054316882000001,"p90":1.0719,"p95":1.081801,"p99":1.116352,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.529030857},"searches":{"errors":0,"max":0.872757,"min":0.225321,"avg":0.6324142909999994,"p90":0.7336469999999999,"p95":0.753949,"p99":0.809684,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":79.479700828}},{"creates":{"errors":0,"max":1.236475,"min":1.043425,"avg":1.0536333869999996,"p90":1.065827,"p95":1.077012,"p99":1.116061,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.195728958},"searches":{"errors":0,"max":0.869774,"min":0.253168,"avg":0.629781319,"p90":0.725654,"p95":0.754601,"p99":0.805769,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":79.186041285}},{"creates":{"errors":0,"max":1.211052,"min":1.043442,"avg":1.053512821999999,"p90":1.067767,"p95":1.079595,"p99":1.118892,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.271940894},"searches":{"errors":0,"max":0.87603,"min":0.175093,"avg":0.6416089520000003,"p90":0.74063,"p95":0.7676270000000001,"p99":0.80792,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":80.634911419}},{"creates":{"errors":0,"max":1.234516,"min":1.038288,"avg":1.0536310059999987,"p90":1.067415,"p95":1.078458,"p99":1.113523,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.385634468},"searches":{"errors":0,"max":0.8903220000000001,"min":0.222384,"avg":0.6427933209999995,"p90":0.743158,"p95":0.7712330000000001,"p99":0.8286100000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":80.832671547}},{"creates":{"errors":0,"max":1.225495,"min":1.043469,"avg":1.0550099909999986,"p90":1.070969,"p95":1.079888,"p99":1.107452,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.274395345},"searches":{"errors":0,"max":0.908578,"min":0.21864099999999997,"avg":0.6627608819999999,"p90":0.765455,"p95":0.796149,"p99":0.842662,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.317350635}},{"creates":{"errors":0,"max":1.230278,"min":1.043531,"avg":1.0535500559999993,"p90":1.067245,"p95":1.07804,"p99":1.106544,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.288427077},"searches":{"errors":0,"max":0.893837,"min":0.222428,"avg":0.659124453,"p90":0.763823,"p95":0.796528,"p99":0.845853,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":82.832689538}},{"creates":{"errors":0,"max":1.221261,"min":1.043502,"avg":1.0551983699999998,"p90":1.071055,"p95":1.080432,"p99":1.103272,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.480970925},"searches":{"errors":0,"max":0.934952,"min":0.244385,"avg":0.6573554310000006,"p90":0.759532,"p95":0.787788,"p99":0.841227,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":82.58275916}},{"creates":{"errors":0,"max":1.1896849999999999,"min":1.043569,"avg":1.053722271,"p90":1.066537,"p95":1.079677,"p99":1.120543,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.256859061},"searches":{"errors":0,"max":0.90461,"min":0.232402,"avg":0.6606861929999998,"p90":0.759038,"p95":0.7890429999999999,"p99":0.849655,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.097630304}},{"creates":{"errors":0,"max":1.215529,"min":1.043422,"avg":1.0542392179999998,"p90":1.067348,"p95":1.076981,"p99":1.120578,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.353340451},"searches":{"errors":0,"max":1.0396450000000002,"min":0.243077,"avg":0.6671652610000001,"p90":0.7643139999999999,"p95":0.7974600000000001,"p99":0.8576239999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.880772006}},{"creates":{"errors":0,"max":1.2149860000000001,"min":1.043245,"avg":1.0537067579999972,"p90":1.068954,"p95":1.0801,"p99":1.113904,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.410145124},"searches":{"errors":0,"max":0.973569,"min":0.237948,"avg":0.670321356000001,"p90":0.775153,"p95":0.8009850000000001,"p99":0.859754,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":84.246485398}},{"creates":{"errors":0,"max":1.194467,"min":1.043128,"avg":1.052994644999999,"p90":1.064865,"p95":1.075894,"p99":1.106594,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.182788806},"searches":{"errors":0,"max":1.164153,"min":0.221315,"avg":0.684829078,"p90":0.796633,"p95":0.830033,"p99":0.891387,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":86.032287286}},{"creates":{"errors":0,"max":1.925215,"min":1.037274,"avg":1.1087878439999999,"p90":1.281932,"p95":1.3550879999999998,"p99":1.5538129999999999,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":139.25225069},"searches":{"errors":0,"max":1.04167,"min":0.225225,"avg":0.6508115050000005,"p90":0.759577,"p95":0.789934,"p99":0.875193,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":81.81248801}},{"creates":{"errors":0,"max":1.200213,"min":1.037594,"avg":1.050398734,"p90":1.06493,"p95":1.075629,"p99":1.108315,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.909317373},"searches":{"errors":0,"max":1.003056,"min":0.229179,"avg":0.6448020470000001,"p90":0.755733,"p95":0.780375,"p99":0.869459,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":81.050603916}},{"creates":{"errors":0,"max":1.1869070000000002,"min":1.037935,"avg":1.0511861359999988,"p90":1.066168,"p95":1.077618,"p99":1.104772,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.906136919},"searches":{"errors":0,"max":0.902107,"min":0.201558,"avg":0.650421974000001,"p90":0.757804,"p95":0.784281,"p99":0.827939,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":81.801944705}},{"creates":{"errors":0,"max":1.18279,"min":1.037331,"avg":1.0502593440000003,"p90":1.064651,"p95":1.076307,"p99":1.108299,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.956505495},"searches":{"errors":0,"max":0.935878,"min":0.188777,"avg":0.6508324559999995,"p90":0.75124,"p95":0.777998,"p99":0.825111,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":81.826346421}},{"creates":{"errors":0,"max":1.231274,"min":1.036895,"avg":1.0483661330000003,"p90":1.059926,"p95":1.073042,"p99":1.092239,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.478683802},"searches":{"errors":0,"max":1.060632,"min":0.26579,"avg":0.6892218179999988,"p90":0.819707,"p95":0.875109,"p99":0.960197,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":86.619491986}},{"creates":{"errors":0,"max":1.222542,"min":1.036235,"avg":1.0483661269999998,"p90":1.061695,"p95":1.079031,"p99":1.121393,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.459008664},"searches":{"errors":0,"max":1.647271,"min":0.196773,"avg":0.8051474210000004,"p90":1.078106,"p95":1.189601,"p99":1.494937,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":101.101577061}},{"creates":{"errors":0,"max":1.206135,"min":1.038121,"avg":1.058795413999998,"p90":1.084535,"p95":1.093552,"p99":1.123206,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":132.994519222},"searches":{"errors":0,"max":1.721489,"min":0.236972,"avg":0.8574607030000008,"p90":1.103496,"p95":1.194391,"p99":1.3892039999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":107.80061244}},{"creates":{"errors":0,"max":1.273005,"min":1.035785,"avg":1.0476721449999993,"p90":1.0604770000000001,"p95":1.070076,"p99":1.117258,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.523308982},"searches":{"errors":0,"max":0.942253,"min":0.214792,"avg":0.6660565400000007,"p90":0.777187,"p95":0.81696,"p99":0.870731,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.669162304}},{"creates":{"errors":0,"max":1.225728,"min":1.035711,"avg":1.047946430000001,"p90":1.062776,"p95":1.076051,"p99":1.105438,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.569708913},"searches":{"errors":0,"max":0.955469,"min":0.228366,"avg":0.6452164839999985,"p90":0.751446,"p95":0.784282,"p99":0.855125,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":81.104054507}},{"creates":{"errors":0,"max":1.1845970000000001,"min":1.036222,"avg":1.0471490469999996,"p90":1.060859,"p95":1.071147,"p99":1.109348,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.538271927},"searches":{"errors":0,"max":1.108442,"min":0.253169,"avg":0.6432682539999993,"p90":0.750857,"p95":0.8019689999999999,"p99":0.915986,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":80.864327663}},{"creates":{"errors":0,"max":1.195331,"min":1.035962,"avg":1.048162231999999,"p90":1.060358,"p95":1.0692620000000002,"p99":1.107181,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.629691388},"searches":{"errors":0,"max":0.892583,"min":0.169828,"avg":0.6406678499999995,"p90":0.7398629999999999,"p95":0.771493,"p99":0.816789,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":80.498713539}},{"creates":{"errors":0,"max":1.183924,"min":1.036877,"avg":1.0484968740000007,"p90":1.060437,"p95":1.072961,"p99":1.1045449999999999,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.496849846},"searches":{"errors":0,"max":0.910733,"min":0.21492100000000003,"avg":0.6649324680000003,"p90":0.77321,"p95":0.804493,"p99":0.8503499999999999,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.577574533}},{"creates":{"errors":0,"max":1.1800760000000001,"min":1.037138,"avg":1.0483878960000008,"p90":1.059677,"p95":1.06732,"p99":1.101165,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.458416639},"searches":{"errors":0,"max":0.946383,"min":0.207565,"avg":0.6653615750000003,"p90":0.76733,"p95":0.797585,"p99":0.8635740000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":83.579193262}},{"creates":{"errors":0,"max":1.208471,"min":1.036776,"avg":1.0476394319999993,"p90":1.058762,"p95":1.066348,"p99":1.095901,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.506487775},"searches":{"errors":0,"max":1.055541,"min":0.23078299999999996,"avg":0.6737116730000007,"p90":0.7789429999999999,"p95":0.818644,"p99":0.889088,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":84.730097504}},{"creates":{"errors":0,"max":1.192119,"min":1.036876,"avg":1.0485669870000003,"p90":1.061403,"p95":1.0705770000000001,"p99":1.099818,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.55837627},"searches":{"errors":0,"max":0.929299,"min":0.213442,"avg":0.6780405540000002,"p90":0.7864990000000001,"p95":0.815727,"p99":0.875467,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":85.180631542}},{"creates":{"errors":0,"max":1.172576,"min":1.037152,"avg":1.0502955799999998,"p90":1.066047,"p95":1.076463,"p99":1.118112,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.765684016},"searches":{"errors":0,"max":0.966206,"min":0.212604,"avg":0.6775838789999996,"p90":0.784329,"p95":0.811712,"p99":0.8942330000000001,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":85.175193429}},{"creates":{"errors":0,"max":1.1854230000000001,"min":1.036671,"avg":1.0490772950000016,"p90":1.062832,"p95":1.072003,"p99":1.108638,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.58351068},"searches":{"errors":0,"max":1.036169,"min":0.22289499999999995,"avg":0.6897109430000009,"p90":0.797168,"p95":0.8484510000000001,"p99":0.97157,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":86.676737293}},{"creates":{"errors":0,"max":1.1962350000000002,"min":1.037239,"avg":1.047748161999999,"p90":1.0601180000000001,"p95":1.070117,"p99":1.107117,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.558073449},"searches":{"errors":0,"max":1.025106,"min":0.223035,"avg":0.6845732560000005,"p90":0.793539,"p95":0.820352,"p99":0.874558,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":86.052406879}},{"creates":{"errors":0,"max":1.185356,"min":1.036436,"avg":1.0487763959999992,"p90":1.062293,"p95":1.078787,"p99":1.118924,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.735917051},"searches":{"errors":0,"max":1.047202,"min":0.242734,"avg":0.6897076189999994,"p90":0.791664,"p95":0.828354,"p99":0.890047,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":86.634540039}},{"creates":{"errors":0,"max":1.190716,"min":1.037105,"avg":1.050069717,"p90":1.063589,"p95":1.077473,"p99":1.118701,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.98082228},"searches":{"errors":0,"max":1.02638,"min":0.339383,"avg":0.7203989480000006,"p90":0.826318,"p95":0.867887,"p99":0.923365,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":90.520068813}},{"creates":{"errors":0,"max":3.349027,"min":1.036537,"avg":1.093720055000002,"p90":1.143417,"p95":1.162765,"p99":1.236464,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":139.435532081},"searches":{"errors":0,"max":1.1618979999999999,"min":0.230512,"avg":0.7325396079999997,"p90":0.8500030000000001,"p95":0.878306,"p99":0.985571,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":92.100915447}},{"creates":{"errors":0,"max":1.222663,"min":1.037498,"avg":1.0501500079999988,"p90":1.063988,"p95":1.077939,"p99":1.12218,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.918161709},"searches":{"errors":0,"max":3.115376,"min":0.23200200000000004,"avg":1.3649710689999963,"p90":2.031434,"p95":2.15843,"p99":2.59296,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":171.578990826}},{"creates":{"errors":0,"max":1.473721,"min":1.054369,"avg":1.1227076640000004,"p90":1.155276,"p95":1.185303,"p99":1.2846929999999999,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":141.116872206},"searches":{"errors":0,"max":2.687931,"min":0.551558,"avg":1.8288276539999997,"p90":2.101118,"p95":2.19236,"p99":2.3627000000000002,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":229.52546802}},{"creates":{"errors":0,"max":1.507436,"min":1.091774,"avg":1.1262747830000006,"p90":1.1687,"p95":1.193657,"p99":1.275084,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":141.492675035},"searches":{"errors":0,"max":2.940468,"min":0.568181,"avg":1.816045418,"p90":2.083658,"p95":2.210187,"p99":2.497286,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":227.919722585}},{"creates":{"errors":0,"max":1.4579710000000001,"min":1.037278,"avg":1.0914970259999996,"p90":1.15076,"p95":1.171772,"p99":1.234948,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":137.320246431},"searches":{"errors":0,"max":2.374222,"min":0.576283,"avg":1.3946530559999997,"p90":1.837101,"p95":1.93342,"p99":2.094234,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":174.886404623}},{"creates":{"errors":0,"max":1.303061,"min":1.038108,"avg":1.111065991,"p90":1.15755,"p95":1.1797330000000001,"p99":1.246597,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":139.505538715},"searches":{"errors":0,"max":2.312524,"min":0.575782,"avg":1.3928468910000014,"p90":1.841561,"p95":1.950971,"p99":2.144427,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":175.016628269}},{"creates":{"errors":0,"max":1.481207,"min":1.038042,"avg":1.0994810310000005,"p90":1.153086,"p95":1.1746189999999999,"p99":1.260304,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":138.247977771},"searches":{"errors":0,"max":2.385655,"min":0.294565,"avg":1.3170852799999997,"p90":1.834431,"p95":1.937851,"p99":2.073679,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":165.271746785}},{"creates":{"errors":0,"max":1.3765290000000001,"min":1.03693,"avg":1.0801362659999996,"p90":1.133839,"p95":1.163613,"p99":1.228143,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":135.798549848},"searches":{"errors":0,"max":2.347475,"min":0.519054,"avg":1.3199279859999986,"p90":1.834865,"p95":1.952501,"p99":2.104979,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":165.918427895}},{"creates":{"errors":0,"max":1.451279,"min":1.038623,"avg":1.1133243260000016,"p90":1.160337,"p95":1.1866780000000001,"p99":1.277665,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":139.924886596},"searches":{"errors":0,"max":2.210716,"min":0.367922,"avg":1.2695754250000002,"p90":1.862587,"p95":1.963345,"p99":2.12103,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":159.24194469}},{"creates":{"errors":0,"max":1.181066,"min":1.03727,"avg":1.0492913070000003,"p90":1.063709,"p95":1.074524,"p99":1.104964,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.844847029},"searches":{"errors":0,"max":1.257428,"min":0.273734,"avg":0.7816437529999996,"p90":0.947871,"p95":1.047633,"p99":1.166115,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":98.309358585}},{"creates":{"errors":0,"max":1.20005,"min":1.036098,"avg":1.0495721679999992,"p90":1.062669,"p95":1.077358,"p99":1.10698,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.744226202},"searches":{"errors":0,"max":2.139535,"min":0.220392,"avg":0.8693774149999991,"p90":1.152815,"p95":1.361623,"p99":1.851389,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":109.277466581}},{"creates":{"errors":0,"max":1.202091,"min":1.036998,"avg":1.0483565550000007,"p90":1.061916,"p95":1.074073,"p99":1.105509,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.60057847},"searches":{"errors":0,"max":1.435108,"min":0.224337,"avg":0.7747820049999993,"p90":0.941131,"p95":1.026715,"p99":1.22678,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":97.685524306}},{"creates":{"errors":0,"max":1.265097,"min":1.036741,"avg":1.0508966900000005,"p90":1.066594,"p95":1.07992,"p99":1.116408,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.970733981},"searches":{"errors":0,"max":0.99212,"min":0.308381,"avg":0.7424230069999999,"p90":0.847028,"p95":0.871992,"p99":0.937717,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":93.36743366}},{"creates":{"errors":0,"max":1.176061,"min":1.036964,"avg":1.047069519,"p90":1.057671,"p95":1.073444,"p99":1.101766,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.438772417},"searches":{"errors":0,"max":1.027695,"min":0.260966,"avg":0.7298071220000002,"p90":0.832565,"p95":0.8651409999999999,"p99":0.925058,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":91.76224597}},{"creates":{"errors":0,"max":1.192564,"min":1.03743,"avg":1.0493812939999991,"p90":1.064316,"p95":1.074476,"p99":1.107729,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.671374442},"searches":{"errors":0,"max":0.971472,"min":0.25215200000000004,"avg":0.7323961889999999,"p90":0.832194,"p95":0.866921,"p99":0.920571,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":92.056397051}},{"creates":{"errors":0,"max":1.188104,"min":1.037133,"avg":1.0493905609999994,"p90":1.062925,"p95":1.072158,"p99":1.103563,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.752618905},"searches":{"errors":0,"max":1.346384,"min":0.201872,"avg":0.747587422,"p90":0.85672,"p95":0.902792,"p99":0.997833,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":93.92468715}},{"creates":{"errors":0,"max":1.1890830000000001,"min":1.03713,"avg":1.0494123490000002,"p90":1.063396,"p95":1.073955,"p99":1.102137,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.698545238},"searches":{"errors":0,"max":0.995658,"min":0.203067,"avg":0.7405108240000019,"p90":0.845581,"p95":0.878945,"p99":0.923656,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":93.035563454}},{"creates":{"errors":0,"max":1.193786,"min":1.03694,"avg":1.04784973,"p90":1.060939,"p95":1.071579,"p99":1.092512,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.512830794},"searches":{"errors":0,"max":1.026833,"min":0.26168499999999995,"avg":0.744270198999999,"p90":0.8421069999999999,"p95":0.87047,"p99":0.937496,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":93.500049214}},{"creates":{"errors":0,"max":1.18586,"min":1.036912,"avg":1.047973944000001,"p90":1.061165,"p95":1.070247,"p99":1.102579,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.699636724},"searches":{"errors":0,"max":0.982388,"min":0.235139,"avg":0.745825038,"p90":0.853537,"p95":0.880363,"p99":0.936775,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":93.71623774}},{"creates":{"errors":0,"max":1.200488,"min":1.036689,"avg":1.0469353520000002,"p90":1.057606,"p95":1.066316,"p99":1.110047,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.635658637},"searches":{"errors":0,"max":1.195799,"min":0.225815,"avg":0.7554757729999999,"p90":0.873509,"p95":0.903386,"p99":0.983487,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":94.908039906}},{"creates":{"errors":0,"max":1.169826,"min":1.036787,"avg":1.0471895069999997,"p90":1.060005,"p95":1.068958,"p99":1.102382,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.504223791},"searches":{"errors":0,"max":0.999003,"min":0.259837,"avg":0.7568194069999999,"p90":0.865915,"p95":0.895507,"p99":0.963151,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":95.0703258}},{"creates":{"errors":0,"max":1.1781,"min":1.036423,"avg":1.0468328769999997,"p90":1.05823,"p95":1.069822,"p99":1.109818,"name":"CreateNoticesTest","concurrency":8,"count":1000,"total_time":131.437836866},"searches":{"errors":0,"max":1.045678,"min":0.26783,"avg":0.7617181850000007,"p90":0.878089,"p95":0.902477,"p99":0.96358,"name":"SearchNoticesTest","concurrency":8,"count":1000,"total_time":95.712296954}}]
+[
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.388751,
+      "min": 1.032103,
+      "avg": 1.0478891729999997,
+      "p90": 1.054825,
+      "p95": 1.063184,
+      "p99": 1.133242,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.403570204
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.605604,
+      "min": 0.08593,
+      "avg": 0.3700818710000002,
+      "p90": 0.455941,
+      "p95": 0.488474,
+      "p99": 0.534857,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 46.596903592
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3607550000000002,
+      "min": 1.03144,
+      "avg": 1.0465285640000006,
+      "p90": 1.05283,
+      "p95": 1.057609,
+      "p99": 1.088023,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.195542761
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.727779,
+      "min": 0.031034,
+      "avg": 0.4075901230000001,
+      "p90": 0.49982000000000004,
+      "p95": 0.529802,
+      "p99": 0.583687,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 51.401337155
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.345548,
+      "min": 1.030145,
+      "avg": 1.0434171540000001,
+      "p90": 1.049049,
+      "p95": 1.053489,
+      "p99": 1.072322,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.833184294
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.667829,
+      "min": 0.0453,
+      "avg": 0.45337196299999954,
+      "p90": 0.559576,
+      "p95": 0.590148,
+      "p99": 0.636848,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 57.05131416
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3428879999999999,
+      "min": 1.0327790000000001,
+      "avg": 1.045045461,
+      "p90": 1.050987,
+      "p95": 1.058015,
+      "p99": 1.112597,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.990030652
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.769699,
+      "min": 0.041172,
+      "avg": 0.4836145330000002,
+      "p90": 0.590053,
+      "p95": 0.620355,
+      "p99": 0.699173,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 60.837123492
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.4604300000000001,
+      "min": 1.0364119999999999,
+      "avg": 1.0445630300000002,
+      "p90": 1.048762,
+      "p95": 1.053099,
+      "p99": 1.068753,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.042509875
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.7819039999999999,
+      "min": 0.104439,
+      "avg": 0.5094908699999998,
+      "p90": 0.6180559999999999,
+      "p95": 0.64734,
+      "p99": 0.709265,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 64.029405078
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3684180000000001,
+      "min": 1.032466,
+      "avg": 1.044298185,
+      "p90": 1.049869,
+      "p95": 1.054341,
+      "p99": 1.09254,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.874753454
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.7041,
+      "min": 0.038429,
+      "avg": 0.506309632,
+      "p90": 0.60662,
+      "p95": 0.629111,
+      "p99": 0.680947,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 63.642806449
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3300779999999999,
+      "min": 1.030641,
+      "avg": 1.0442518240000016,
+      "p90": 1.052638,
+      "p95": 1.058071,
+      "p99": 1.112215,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.886602521
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.761809,
+      "min": 0.03936,
+      "avg": 0.5246166199999999,
+      "p90": 0.634288,
+      "p95": 0.6644019999999999,
+      "p99": 0.712446,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 65.933178689
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.331172,
+      "min": 1.031021,
+      "avg": 1.0445248409999996,
+      "p90": 1.05321,
+      "p95": 1.060712,
+      "p99": 1.102721,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.959436762
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.761597,
+      "min": 0.040596,
+      "avg": 0.5356932249999997,
+      "p90": 0.6360939999999999,
+      "p95": 0.6591549999999999,
+      "p99": 0.716937,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 67.399262876
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.329748,
+      "min": 1.031086,
+      "avg": 1.0456901440000017,
+      "p90": 1.052373,
+      "p95": 1.059624,
+      "p99": 1.085208,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.174361506
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.8761140000000001,
+      "min": 0.07442,
+      "avg": 0.629316596,
+      "p90": 0.726655,
+      "p95": 0.756256,
+      "p99": 0.813256,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 79.095647461
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3659949999999998,
+      "min": 1.033893,
+      "avg": 1.045177157,
+      "p90": 1.050281,
+      "p95": 1.054706,
+      "p99": 1.078745,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.092324156
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.834571,
+      "min": 0.103457,
+      "avg": 0.6094052480000004,
+      "p90": 0.717318,
+      "p95": 0.75309,
+      "p99": 0.810737,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 76.64332403
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.345189,
+      "min": 1.036259,
+      "avg": 1.0455842210000013,
+      "p90": 1.051597,
+      "p95": 1.057474,
+      "p99": 1.087973,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.109450545
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.906061,
+      "min": 0.055337,
+      "avg": 0.6363903529999996,
+      "p90": 0.744373,
+      "p95": 0.772451,
+      "p99": 0.817202,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 80.108168097
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.363137,
+      "min": 1.036778,
+      "avg": 1.04539389,
+      "p90": 1.051389,
+      "p95": 1.058587,
+      "p99": 1.093713,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.137584436
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.844177,
+      "min": 0.120038,
+      "avg": 0.6373661439999989,
+      "p90": 0.742029,
+      "p95": 0.763582,
+      "p99": 0.811878,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 80.071112892
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.357594,
+      "min": 1.036369,
+      "avg": 1.0453616370000014,
+      "p90": 1.050905,
+      "p95": 1.055148,
+      "p99": 1.090564,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.091336629
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.852899,
+      "min": 0.10591899999999999,
+      "avg": 0.6591105140000002,
+      "p90": 0.769285,
+      "p95": 0.789273,
+      "p99": 0.8171539999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 82.797129988
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3695789999999999,
+      "min": 1.03671,
+      "avg": 1.0448858790000009,
+      "p90": 1.049809,
+      "p95": 1.052978,
+      "p99": 1.071552,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.011892545
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.875101,
+      "min": 0.06957500000000005,
+      "avg": 0.6715759509999996,
+      "p90": 0.774979,
+      "p95": 0.803588,
+      "p99": 0.830796,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 84.41610061
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.389046,
+      "min": 1.037037,
+      "avg": 1.0447699860000008,
+      "p90": 1.049946,
+      "p95": 1.052061,
+      "p99": 1.068607,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.015846251
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.854012,
+      "min": 0.129643,
+      "avg": 0.6639154119999995,
+      "p90": 0.762244,
+      "p95": 0.7903169999999999,
+      "p99": 0.824225,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 83.488601017
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.362377,
+      "min": 1.036776,
+      "avg": 1.0450865149999988,
+      "p90": 1.05012,
+      "p95": 1.056986,
+      "p99": 1.1136,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.09060398
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.912748,
+      "min": 0.064152,
+      "avg": 0.6884190369999998,
+      "p90": 0.781399,
+      "p95": 0.8115140000000001,
+      "p99": 0.842013,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 86.51951186
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.366355,
+      "min": 1.036959,
+      "avg": 1.0453989859999993,
+      "p90": 1.051233,
+      "p95": 1.057533,
+      "p99": 1.077369,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.068574976
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.892738,
+      "min": 0.068973,
+      "avg": 0.6872575230000002,
+      "p90": 0.792192,
+      "p95": 0.813021,
+      "p99": 0.861201,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 86.377941759
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.37867,
+      "min": 1.036678,
+      "avg": 1.0448774269999983,
+      "p90": 1.049169,
+      "p95": 1.05421,
+      "p99": 1.115479,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.051497635
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.92328,
+      "min": 0.108276,
+      "avg": 0.7062093789999996,
+      "p90": 0.800246,
+      "p95": 0.830121,
+      "p99": 0.862982,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 88.779154476
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.319906,
+      "min": 1.036726,
+      "avg": 1.044574819,
+      "p90": 1.049052,
+      "p95": 1.053808,
+      "p99": 1.099839,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.971646265
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.929482,
+      "min": 0.071335,
+      "avg": 0.7247636930000003,
+      "p90": 0.816638,
+      "p95": 0.844995,
+      "p99": 0.88822,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 91.106556236
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358115,
+      "min": 1.036817,
+      "avg": 1.044967833000001,
+      "p90": 1.050084,
+      "p95": 1.054022,
+      "p99": 1.092751,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.028014661
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.956467,
+      "min": 0.122877,
+      "avg": 0.7438726470000002,
+      "p90": 0.83713,
+      "p95": 0.86646,
+      "p99": 0.917709,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 93.474850181
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.363167,
+      "min": 1.036934,
+      "avg": 1.0448441119999998,
+      "p90": 1.049749,
+      "p95": 1.055072,
+      "p99": 1.0751270000000002,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.041712957
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.968279,
+      "min": 0.086263,
+      "avg": 0.748567574999999,
+      "p90": 0.840614,
+      "p95": 0.864071,
+      "p99": 0.913492,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 94.106683624
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3638780000000001,
+      "min": 1.037151,
+      "avg": 1.0449819170000003,
+      "p90": 1.050507,
+      "p95": 1.055934,
+      "p99": 1.0729,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.018512353
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.975703,
+      "min": 0.121748,
+      "avg": 0.756141173000001,
+      "p90": 0.839107,
+      "p95": 0.860143,
+      "p99": 0.891648,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 95.058771331
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.361411,
+      "min": 1.036722,
+      "avg": 1.0450541260000001,
+      "p90": 1.049958,
+      "p95": 1.054261,
+      "p99": 1.099053,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.100196339
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.964159,
+      "min": 0.110558,
+      "avg": 0.7703291979999997,
+      "p90": 0.858438,
+      "p95": 0.881087,
+      "p99": 0.9161509999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 96.735192238
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.377041,
+      "min": 1.036866,
+      "avg": 1.0450730460000004,
+      "p90": 1.050098,
+      "p95": 1.055157,
+      "p99": 1.107925,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.048030806
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.966367,
+      "min": 0.129067,
+      "avg": 0.7702905019999994,
+      "p90": 0.859426,
+      "p95": 0.881759,
+      "p99": 0.90839,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 96.754909228
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.365782,
+      "min": 1.036763,
+      "avg": 1.0450470189999996,
+      "p90": 1.049608,
+      "p95": 1.053526,
+      "p99": 1.129208,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.085385068
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.971561,
+      "min": 0.097943,
+      "avg": 0.7942978699999995,
+      "p90": 0.875272,
+      "p95": 0.90128,
+      "p99": 0.939588,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 99.874092856
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.354572,
+      "min": 1.036662,
+      "avg": 1.0447791879999977,
+      "p90": 1.049718,
+      "p95": 1.055027,
+      "p99": 1.077325,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.027862355
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.976265,
+      "min": 0.121577,
+      "avg": 0.7893274869999992,
+      "p90": 0.873767,
+      "p95": 0.889493,
+      "p99": 0.932237,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 99.218542896
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358232,
+      "min": 1.036755,
+      "avg": 1.045000743,
+      "p90": 1.050596,
+      "p95": 1.053395,
+      "p99": 1.094758,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.059764099
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.994294,
+      "min": 0.138131,
+      "avg": 0.8081307789999999,
+      "p90": 0.892832,
+      "p95": 0.910711,
+      "p99": 0.950337,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 101.582809317
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.361414,
+      "min": 1.036569,
+      "avg": 1.0453227059999988,
+      "p90": 1.05099,
+      "p95": 1.055424,
+      "p99": 1.100395,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.043327677
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.012487,
+      "min": 0.11400100000000002,
+      "avg": 0.8149354489999989,
+      "p90": 0.897689,
+      "p95": 0.919068,
+      "p99": 0.952107,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 102.381837472
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3702619999999999,
+      "min": 1.036605,
+      "avg": 1.0449885929999998,
+      "p90": 1.050349,
+      "p95": 1.05434,
+      "p99": 1.075312,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.10206555
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.020278,
+      "min": 0.092245,
+      "avg": 0.8249605709999986,
+      "p90": 0.900529,
+      "p95": 0.920416,
+      "p99": 0.963852,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 103.721930584
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358079,
+      "min": 1.03681,
+      "avg": 1.045208108,
+      "p90": 1.051079,
+      "p95": 1.059768,
+      "p99": 1.077864,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.0862931
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.051102,
+      "min": 0.150052,
+      "avg": 0.832520303999999,
+      "p90": 0.916793,
+      "p95": 0.947551,
+      "p99": 0.997748,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 104.631849318
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.372722,
+      "min": 1.036875,
+      "avg": 1.0453741730000001,
+      "p90": 1.050462,
+      "p95": 1.057261,
+      "p99": 1.10314,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.053322776
+    },
+    "searches": {
+      "errors": 0,
+      "max": 0.992561,
+      "min": 0.118554,
+      "avg": 0.8397622529999991,
+      "p90": 0.914607,
+      "p95": 0.9350350000000001,
+      "p99": 0.95902,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 105.556640172
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.374519,
+      "min": 1.036302,
+      "avg": 1.045770540000001,
+      "p90": 1.052092,
+      "p95": 1.060907,
+      "p99": 1.0925129999999998,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.129951332
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.082288,
+      "min": 0.140873,
+      "avg": 0.8498601690000008,
+      "p90": 0.924098,
+      "p95": 0.950251,
+      "p99": 0.999267,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 106.777764023
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.364824,
+      "min": 1.036443,
+      "avg": 1.0454906369999992,
+      "p90": 1.0507,
+      "p95": 1.058817,
+      "p99": 1.113528,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.08283273
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.028382,
+      "min": 0.097075,
+      "avg": 0.8599990709999998,
+      "p90": 0.935099,
+      "p95": 0.954459,
+      "p99": 1.002389,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 108.040441848
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.369988,
+      "min": 1.036469,
+      "avg": 1.044691441000001,
+      "p90": 1.050314,
+      "p95": 1.053537,
+      "p99": 1.095293,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.025114968
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.023263,
+      "min": 0.111877,
+      "avg": 0.8703252929999999,
+      "p90": 0.944729,
+      "p95": 0.959618,
+      "p99": 0.999254,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 109.4208903
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3671090000000001,
+      "min": 1.036641,
+      "avg": 1.0450284769999998,
+      "p90": 1.050751,
+      "p95": 1.054674,
+      "p99": 1.078863,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.094840342
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.064568,
+      "min": 0.113548,
+      "avg": 0.8948326229999993,
+      "p90": 0.967309,
+      "p95": 0.987859,
+      "p99": 1.026069,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 112.398444196
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.354993,
+      "min": 1.036667,
+      "avg": 1.0446555480000002,
+      "p90": 1.050047,
+      "p95": 1.054914,
+      "p99": 1.087723,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.026512642
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.159788,
+      "min": 0.121288,
+      "avg": 0.8873519170000022,
+      "p90": 0.970677,
+      "p95": 0.992782,
+      "p99": 1.053207,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 111.517238065
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.367628,
+      "min": 1.036736,
+      "avg": 1.0452313989999997,
+      "p90": 1.051388,
+      "p95": 1.057706,
+      "p99": 1.077039,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.089728903
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.112304,
+      "min": 0.110353,
+      "avg": 0.9010568729999996,
+      "p90": 0.983646,
+      "p95": 1.007561,
+      "p99": 1.064101,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 113.220694493
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3205369999999998,
+      "min": 1.036707,
+      "avg": 1.0447740829999996,
+      "p90": 1.049849,
+      "p95": 1.061563,
+      "p99": 1.087396,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.028297877
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.048472,
+      "min": 0.109146,
+      "avg": 0.9047311200000004,
+      "p90": 0.98269,
+      "p95": 1.00113,
+      "p99": 1.030073,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 113.678897775
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.377726,
+      "min": 1.036715,
+      "avg": 1.0449197249999993,
+      "p90": 1.049783,
+      "p95": 1.055104,
+      "p99": 1.074556,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.009879675
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.091431,
+      "min": 0.14199,
+      "avg": 0.9118938199999993,
+      "p90": 0.988404,
+      "p95": 1.003398,
+      "p99": 1.035307,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 114.595021433
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.372984,
+      "min": 1.036742,
+      "avg": 1.0448781050000004,
+      "p90": 1.049718,
+      "p95": 1.054788,
+      "p99": 1.084547,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.007330148
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.060223,
+      "min": 0.13813399999999998,
+      "avg": 0.9209849609999995,
+      "p90": 0.989647,
+      "p95": 1.003958,
+      "p99": 1.036087,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 115.663459748
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358915,
+      "min": 1.036647,
+      "avg": 1.045120239000001,
+      "p90": 1.049945,
+      "p95": 1.055201,
+      "p99": 1.075864,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.063179855
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.075339,
+      "min": 0.12616,
+      "avg": 0.934264827999999,
+      "p90": 1.001867,
+      "p95": 1.019321,
+      "p99": 1.056085,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 117.375289774
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.355879,
+      "min": 1.036654,
+      "avg": 1.0454315920000004,
+      "p90": 1.050916,
+      "p95": 1.05667,
+      "p99": 1.092972,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.114302361
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.160657,
+      "min": 0.173935,
+      "avg": 0.9445687540000003,
+      "p90": 1.012089,
+      "p95": 1.032283,
+      "p99": 1.06665,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 118.652011423
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.356102,
+      "min": 1.036678,
+      "avg": 1.0453757920000002,
+      "p90": 1.051309,
+      "p95": 1.057446,
+      "p99": 1.09052,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.106789711
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.132274,
+      "min": 0.115136,
+      "avg": 0.9461861200000007,
+      "p90": 1.016837,
+      "p95": 1.036829,
+      "p99": 1.077518,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 118.853066225
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.352516,
+      "min": 1.036606,
+      "avg": 1.045641840000001,
+      "p90": 1.05156,
+      "p95": 1.055872,
+      "p99": 1.076091,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.12335477
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.117314,
+      "min": 0.137557,
+      "avg": 0.9511340429999995,
+      "p90": 1.018068,
+      "p95": 1.045011,
+      "p99": 1.093308,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 119.506077916
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.366816,
+      "min": 1.036364,
+      "avg": 1.0449285259999996,
+      "p90": 1.05014,
+      "p95": 1.052994,
+      "p99": 1.073582,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.034583181
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.136333,
+      "min": 0.134972,
+      "avg": 0.9638447630000003,
+      "p90": 1.034836,
+      "p95": 1.055092,
+      "p99": 1.095921,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 121.10046746
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.356853,
+      "min": 1.031988,
+      "avg": 1.0449881049999992,
+      "p90": 1.05175,
+      "p95": 1.056859,
+      "p99": 1.0725419999999999,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.099241147
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.16759,
+      "min": 0.104066,
+      "avg": 0.9642525169999986,
+      "p90": 1.04388,
+      "p95": 1.063382,
+      "p99": 1.120484,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 121.201541451
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3521809999999999,
+      "min": 1.031084,
+      "avg": 1.0452252400000008,
+      "p90": 1.05199,
+      "p95": 1.057292,
+      "p99": 1.075503,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.110907079
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.206591,
+      "min": 0.117711,
+      "avg": 0.9743524260000007,
+      "p90": 1.048315,
+      "p95": 1.070408,
+      "p99": 1.1103939999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 122.406097181
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.365237,
+      "min": 1.036459,
+      "avg": 1.0451934369999998,
+      "p90": 1.050682,
+      "p95": 1.056792,
+      "p99": 1.078149,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.172820138
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.278526,
+      "min": 0.19736900000000002,
+      "avg": 0.9978906719999996,
+      "p90": 1.069412,
+      "p95": 1.098937,
+      "p99": 1.186787,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 125.37477623
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.377714,
+      "min": 1.036583,
+      "avg": 1.044967211000001,
+      "p90": 1.049919,
+      "p95": 1.054149,
+      "p99": 1.0745770000000001,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.02510245
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.153228,
+      "min": 0.130773,
+      "avg": 0.9976957110000007,
+      "p90": 1.062821,
+      "p95": 1.085324,
+      "p99": 1.11781,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 125.314636642
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3677380000000001,
+      "min": 1.036442,
+      "avg": 1.046130686000003,
+      "p90": 1.05242,
+      "p95": 1.058761,
+      "p99": 1.11394,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.15419504
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.146533,
+      "min": 0.137947,
+      "avg": 1.0044397939999998,
+      "p90": 1.062061,
+      "p95": 1.083488,
+      "p99": 1.117053,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 126.194158796
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.363716,
+      "min": 1.036601,
+      "avg": 1.0453044400000002,
+      "p90": 1.050621,
+      "p95": 1.058248,
+      "p99": 1.097221,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.127703033
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.20718,
+      "min": 0.120237,
+      "avg": 1.0186764860000002,
+      "p90": 1.088918,
+      "p95": 1.115086,
+      "p99": 1.147325,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 127.985829627
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.351655,
+      "min": 1.03659,
+      "avg": 1.0447942820000002,
+      "p90": 1.050229,
+      "p95": 1.057124,
+      "p99": 1.075928,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.062545309
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.195285,
+      "min": 0.16107000000000005,
+      "avg": 1.0239488259999994,
+      "p90": 1.095191,
+      "p95": 1.116733,
+      "p99": 1.154216,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 128.609621657
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358219,
+      "min": 1.037343,
+      "avg": 1.0450983650000016,
+      "p90": 1.050886,
+      "p95": 1.053545,
+      "p99": 1.060336,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.060344922
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.213673,
+      "min": 0.145396,
+      "avg": 1.0321017540000008,
+      "p90": 1.107799,
+      "p95": 1.132644,
+      "p99": 1.1775579999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 129.602345659
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3722349999999999,
+      "min": 1.0367,
+      "avg": 1.0454509730000001,
+      "p90": 1.051104,
+      "p95": 1.056683,
+      "p99": 1.075236,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.067245139
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.177036,
+      "min": 0.136886,
+      "avg": 1.0347600879999994,
+      "p90": 1.103829,
+      "p95": 1.130272,
+      "p99": 1.165649,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.022995424
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.361327,
+      "min": 1.0369,
+      "avg": 1.0451677420000007,
+      "p90": 1.051023,
+      "p95": 1.053887,
+      "p99": 1.078096,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.10906646
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.226499,
+      "min": 0.142287,
+      "avg": 1.0479069180000002,
+      "p90": 1.116592,
+      "p95": 1.142212,
+      "p99": 1.172494,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.604997424
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.349022,
+      "min": 1.036789,
+      "avg": 1.0451919999999997,
+      "p90": 1.051235,
+      "p95": 1.056766,
+      "p99": 1.073936,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.031500846
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.265069,
+      "min": 0.14858899999999997,
+      "avg": 1.0527328209999995,
+      "p90": 1.124125,
+      "p95": 1.139801,
+      "p99": 1.189217,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 132.204610631
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.364593,
+      "min": 1.036529,
+      "avg": 1.0447957460000017,
+      "p90": 1.050988,
+      "p95": 1.054818,
+      "p99": 1.072494,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.010786083
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.225759,
+      "min": 0.203445,
+      "avg": 1.0628449649999991,
+      "p90": 1.137962,
+      "p95": 1.159658,
+      "p99": 1.19499,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 133.507613504
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.361445,
+      "min": 1.0368249999999999,
+      "avg": 1.045244706,
+      "p90": 1.050552,
+      "p95": 1.059762,
+      "p99": 1.113057,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.0641516
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.256754,
+      "min": 0.151417,
+      "avg": 1.077908727999999,
+      "p90": 1.149473,
+      "p95": 1.171201,
+      "p99": 1.212032,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 135.466665703
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.379078,
+      "min": 1.036641,
+      "avg": 1.0449119069999997,
+      "p90": 1.050078,
+      "p95": 1.057776,
+      "p99": 1.093215,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.027950843
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.259671,
+      "min": 0.146965,
+      "avg": 1.080529417,
+      "p90": 1.1535790000000001,
+      "p95": 1.170731,
+      "p99": 1.202515,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 135.741307179
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.364335,
+      "min": 1.036672,
+      "avg": 1.045949519,
+      "p90": 1.051964,
+      "p95": 1.059129,
+      "p99": 1.129851,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.117537676
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.238926,
+      "min": 0.14998,
+      "avg": 1.088167956,
+      "p90": 1.1565699999999999,
+      "p95": 1.173428,
+      "p99": 1.203209,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 136.66748968
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.365796,
+      "min": 1.03635,
+      "avg": 1.0452882600000002,
+      "p90": 1.050795,
+      "p95": 1.054908,
+      "p99": 1.101382,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.076428831
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.362245,
+      "min": 0.155108,
+      "avg": 1.0965183250000001,
+      "p90": 1.169944,
+      "p95": 1.193865,
+      "p99": 1.239509,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 137.797525327
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.36776,
+      "min": 1.036563,
+      "avg": 1.045019291000001,
+      "p90": 1.049944,
+      "p95": 1.0553,
+      "p99": 1.085498,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.127777992
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.320798,
+      "min": 0.13936199999999999,
+      "avg": 1.1041420850000017,
+      "p90": 1.1760329999999999,
+      "p95": 1.2074829999999999,
+      "p99": 1.2728410000000001,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 138.667053756
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.378886,
+      "min": 1.03678,
+      "avg": 1.0453462799999995,
+      "p90": 1.050589,
+      "p95": 1.055804,
+      "p99": 1.071792,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.116077708
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.354627,
+      "min": 0.137135,
+      "avg": 1.1147479360000003,
+      "p90": 1.188188,
+      "p95": 1.217615,
+      "p99": 1.278583,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 140.027954166
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.32979,
+      "min": 1.036576,
+      "avg": 1.0456798819999997,
+      "p90": 1.052481,
+      "p95": 1.058476,
+      "p99": 1.082939,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.143725224
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.305177,
+      "min": 0.126687,
+      "avg": 1.1224965230000017,
+      "p90": 1.195116,
+      "p95": 1.222504,
+      "p99": 1.2677749999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 140.958877457
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.352528,
+      "min": 1.036438,
+      "avg": 1.0454861160000002,
+      "p90": 1.051971,
+      "p95": 1.05739,
+      "p99": 1.090994,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.195031695
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.277097,
+      "min": 0.197728,
+      "avg": 1.1191233560000002,
+      "p90": 1.186048,
+      "p95": 1.21387,
+      "p99": 1.241654,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 140.588277506
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.374857,
+      "min": 1.036422,
+      "avg": 1.0460255350000007,
+      "p90": 1.05217,
+      "p95": 1.05795,
+      "p99": 1.083272,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.175085942
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.379244,
+      "min": 0.128341,
+      "avg": 1.1335304029999986,
+      "p90": 1.207931,
+      "p95": 1.231427,
+      "p99": 1.287371,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 142.389997602
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.354233,
+      "min": 1.036414,
+      "avg": 1.0458822480000012,
+      "p90": 1.05231,
+      "p95": 1.061467,
+      "p99": 1.090724,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.175648209
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.305675,
+      "min": 0.207237,
+      "avg": 1.141393904999999,
+      "p90": 1.210579,
+      "p95": 1.230405,
+      "p99": 1.262113,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 143.389187777
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.39401,
+      "min": 1.03647,
+      "avg": 1.0455727519999984,
+      "p90": 1.051806,
+      "p95": 1.057386,
+      "p99": 1.106057,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.095397503
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.3182399999999999,
+      "min": 0.13077000000000005,
+      "avg": 1.1438283960000002,
+      "p90": 1.219749,
+      "p95": 1.24058,
+      "p99": 1.277719,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 143.655788196
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.356145,
+      "min": 1.036774,
+      "avg": 1.0458371379999998,
+      "p90": 1.051727,
+      "p95": 1.058747,
+      "p99": 1.074066,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.136175798
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.357163,
+      "min": 0.17108599999999996,
+      "avg": 1.1541174970000012,
+      "p90": 1.231934,
+      "p95": 1.254826,
+      "p99": 1.3221180000000001,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 144.980713709
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.379441,
+      "min": 1.036493,
+      "avg": 1.045928424000002,
+      "p90": 1.052687,
+      "p95": 1.057925,
+      "p99": 1.076878,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.201499494
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.3769200000000001,
+      "min": 0.174099,
+      "avg": 1.173723630000001,
+      "p90": 1.253695,
+      "p95": 1.27981,
+      "p99": 1.3151389999999998,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 147.389086397
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.375769,
+      "min": 1.032879,
+      "avg": 1.04601519,
+      "p90": 1.052485,
+      "p95": 1.061241,
+      "p99": 1.106164,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.141774431
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.42719,
+      "min": 0.146637,
+      "avg": 1.163523130000001,
+      "p90": 1.241211,
+      "p95": 1.264154,
+      "p99": 1.305194,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 146.164934375
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.360825,
+      "min": 1.036721,
+      "avg": 1.045341641,
+      "p90": 1.051351,
+      "p95": 1.059358,
+      "p99": 1.094598,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.070708275
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.38714,
+      "min": 0.128301,
+      "avg": 1.1683498750000019,
+      "p90": 1.257161,
+      "p95": 1.2805,
+      "p99": 1.3404639999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 146.71020786
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.355195,
+      "min": 1.032681,
+      "avg": 1.0447222809999994,
+      "p90": 1.049781,
+      "p95": 1.0533,
+      "p99": 1.07154,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.026385493
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.327953,
+      "min": 0.178817,
+      "avg": 1.1269152479999993,
+      "p90": 1.226456,
+      "p95": 1.249191,
+      "p99": 1.285452,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 141.54112828
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3565070000000001,
+      "min": 1.031444,
+      "avg": 1.0447870890000006,
+      "p90": 1.051689,
+      "p95": 1.056798,
+      "p99": 1.0716350000000001,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.949312969
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.424557,
+      "min": 0.12545,
+      "avg": 1.139981845999999,
+      "p90": 1.258832,
+      "p95": 1.295599,
+      "p99": 1.350101,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 143.304787667
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.393035,
+      "min": 1.036344,
+      "avg": 1.0451297930000008,
+      "p90": 1.049367,
+      "p95": 1.054778,
+      "p99": 1.071525,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.110755643
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.473551,
+      "min": 0.17621,
+      "avg": 1.222963947000002,
+      "p90": 1.295215,
+      "p95": 1.31643,
+      "p99": 1.366897,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 153.61081004
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3862459999999999,
+      "min": 1.036225,
+      "avg": 1.0456085180000003,
+      "p90": 1.050987,
+      "p95": 1.056908,
+      "p99": 1.079563,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.206110833
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.48399,
+      "min": 0.138394,
+      "avg": 1.2371035189999988,
+      "p90": 1.313262,
+      "p95": 1.335906,
+      "p99": 1.425737,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 155.354917441
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.487088,
+      "min": 1.037093,
+      "avg": 1.0455374690000008,
+      "p90": 1.048988,
+      "p95": 1.052801,
+      "p99": 1.076609,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.222404321
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.412693,
+      "min": 0.137566,
+      "avg": 1.2390513539999988,
+      "p90": 1.3109060000000001,
+      "p95": 1.337089,
+      "p99": 1.374299,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 155.598885086
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.372762,
+      "min": 1.036867,
+      "avg": 1.0456504390000003,
+      "p90": 1.051047,
+      "p95": 1.05433,
+      "p99": 1.070798,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.232105937
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.520277,
+      "min": 0.191912,
+      "avg": 1.2428938349999985,
+      "p90": 1.336332,
+      "p95": 1.379771,
+      "p99": 1.462675,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 156.087904849
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.355798,
+      "min": 1.036993,
+      "avg": 1.0451853240000006,
+      "p90": 1.050444,
+      "p95": 1.055208,
+      "p99": 1.123111,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.094290011
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.460447,
+      "min": 0.139153,
+      "avg": 1.2272200560000002,
+      "p90": 1.3151709999999999,
+      "p95": 1.3427310000000001,
+      "p99": 1.39666,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 154.1553406
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.353472,
+      "min": 1.036857,
+      "avg": 1.0452106629999995,
+      "p90": 1.050511,
+      "p95": 1.059891,
+      "p99": 1.114468,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.058148145
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.463019,
+      "min": 0.187865,
+      "avg": 1.2382962040000012,
+      "p90": 1.328562,
+      "p95": 1.353892,
+      "p99": 1.402234,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 155.563022737
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.36724,
+      "min": 1.036449,
+      "avg": 1.0449996800000005,
+      "p90": 1.049898,
+      "p95": 1.055817,
+      "p99": 1.125836,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.053450167
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.533642,
+      "min": 0.195792,
+      "avg": 1.2324096490000018,
+      "p90": 1.3412950000000001,
+      "p95": 1.3911850000000001,
+      "p99": 1.454394,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 154.781405893
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.477894,
+      "min": 1.031264,
+      "avg": 1.0447154810000006,
+      "p90": 1.050003,
+      "p95": 1.0530659999999998,
+      "p99": 1.06893,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.962359282
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.427191,
+      "min": 0.190452,
+      "avg": 1.2028954320000003,
+      "p90": 1.302046,
+      "p95": 1.330826,
+      "p99": 1.388519,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 151.135820643
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.357461,
+      "min": 1.03697,
+      "avg": 1.0450978019999988,
+      "p90": 1.050364,
+      "p95": 1.054458,
+      "p99": 1.0711,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.039746971
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.499369,
+      "min": 0.201154,
+      "avg": 1.240420476,
+      "p90": 1.34688,
+      "p95": 1.381719,
+      "p99": 1.443234,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 155.841944192
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.350236,
+      "min": 1.032473,
+      "avg": 1.044812756000001,
+      "p90": 1.05192,
+      "p95": 1.056222,
+      "p99": 1.074041,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.973795861
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.39371,
+      "min": 0.14672,
+      "avg": 1.1653117890000007,
+      "p90": 1.255536,
+      "p95": 1.2882639999999999,
+      "p99": 1.335126,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 146.359034234
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3367339999999999,
+      "min": 1.035734,
+      "avg": 1.0455642429999998,
+      "p90": 1.052412,
+      "p95": 1.05649,
+      "p99": 1.082803,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.211109453
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.572452,
+      "min": 0.14826,
+      "avg": 1.3184598339999984,
+      "p90": 1.409232,
+      "p95": 1.439611,
+      "p99": 1.508366,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 165.639220417
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.365901,
+      "min": 1.035767,
+      "avg": 1.0458030529999995,
+      "p90": 1.052227,
+      "p95": 1.059744,
+      "p99": 1.095494,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.109694026
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.545221,
+      "min": 0.145906,
+      "avg": 1.2932786710000008,
+      "p90": 1.3880409999999999,
+      "p95": 1.418744,
+      "p99": 1.482763,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 162.42412748
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.361585,
+      "min": 1.035278,
+      "avg": 1.044672335000001,
+      "p90": 1.049582,
+      "p95": 1.056383,
+      "p99": 1.11272,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.062052927
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.553517,
+      "min": 0.146294,
+      "avg": 1.294140206000002,
+      "p90": 1.393304,
+      "p95": 1.420075,
+      "p99": 1.4740229999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 162.636295942
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3604829999999999,
+      "min": 1.036478,
+      "avg": 1.0455022969999999,
+      "p90": 1.051318,
+      "p95": 1.06024,
+      "p99": 1.103725,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.078045399
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.565219,
+      "min": 0.211426,
+      "avg": 1.3019484489999995,
+      "p90": 1.404734,
+      "p95": 1.437708,
+      "p99": 1.511623,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 163.529586401
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.339556,
+      "min": 1.0366360000000001,
+      "avg": 1.0447285139999993,
+      "p90": 1.04998,
+      "p95": 1.057243,
+      "p99": 1.076523,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.074402199
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.551014,
+      "min": 0.21683,
+      "avg": 1.3076545870000007,
+      "p90": 1.4091749999999998,
+      "p95": 1.442748,
+      "p99": 1.5029759999999999,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 164.197337498
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.356066,
+      "min": 1.036789,
+      "avg": 1.0452057649999997,
+      "p90": 1.050313,
+      "p95": 1.054514,
+      "p99": 1.117979,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.045716565
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.635148,
+      "min": 0.148161,
+      "avg": 1.325228916999998,
+      "p90": 1.435454,
+      "p95": 1.47505,
+      "p99": 1.528364,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 166.497368004
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.373632,
+      "min": 1.036589,
+      "avg": 1.0458702930000001,
+      "p90": 1.052998,
+      "p95": 1.060983,
+      "p99": 1.119938,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.167021231
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.61769,
+      "min": 0.131395,
+      "avg": 1.316478875999999,
+      "p90": 1.435524,
+      "p95": 1.47038,
+      "p99": 1.536259,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 165.373175886
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.372074,
+      "min": 1.036602,
+      "avg": 1.0459482179999988,
+      "p90": 1.053375,
+      "p95": 1.058691,
+      "p99": 1.0897809999999999,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.171305319
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.61694,
+      "min": 0.324687,
+      "avg": 1.3368587080000007,
+      "p90": 1.4561950000000001,
+      "p95": 1.4915289999999999,
+      "p99": 1.54112,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 167.857690048
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.358366,
+      "min": 1.033448,
+      "avg": 1.0467875329999994,
+      "p90": 1.054613,
+      "p95": 1.062222,
+      "p99": 1.117467,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.247995068
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.660149,
+      "min": 0.226251,
+      "avg": 1.3605274979999997,
+      "p90": 1.491701,
+      "p95": 1.530306,
+      "p99": 1.599251,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 170.878901455
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.36828,
+      "min": 1.036016,
+      "avg": 1.0463252060000006,
+      "p90": 1.052847,
+      "p95": 1.059953,
+      "p99": 1.141099,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.255212772
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.627104,
+      "min": 0.13342,
+      "avg": 1.3695337059999984,
+      "p90": 1.488342,
+      "p95": 1.513306,
+      "p99": 1.572166,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 171.958730807
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.380001,
+      "min": 1.035305,
+      "avg": 1.0460939679999992,
+      "p90": 1.052427,
+      "p95": 1.059856,
+      "p99": 1.073286,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.207727707
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.645571,
+      "min": 0.150563,
+      "avg": 1.352326694000001,
+      "p90": 1.480298,
+      "p95": 1.5152160000000001,
+      "p99": 1.605176,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 169.812345708
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.413546,
+      "min": 1.036694,
+      "avg": 1.0459821500000013,
+      "p90": 1.052294,
+      "p95": 1.057767,
+      "p99": 1.120235,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.246688959
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.736667,
+      "min": 0.174426,
+      "avg": 1.370687603,
+      "p90": 1.484562,
+      "p95": 1.522988,
+      "p99": 1.580832,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 172.125826259
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.37308,
+      "min": 1.036708,
+      "avg": 1.0461008699999987,
+      "p90": 1.052509,
+      "p95": 1.06157,
+      "p99": 1.113259,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.251690739
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.7124,
+      "min": 0.336499,
+      "avg": 1.353927782,
+      "p90": 1.495564,
+      "p95": 1.545894,
+      "p99": 1.61676,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 170.051450755
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.372714,
+      "min": 1.031718,
+      "avg": 1.0454973920000001,
+      "p90": 1.051789,
+      "p95": 1.057725,
+      "p99": 1.091216,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.203200926
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.751757,
+      "min": 0.146293,
+      "avg": 1.3909003719999986,
+      "p90": 1.525556,
+      "p95": 1.557782,
+      "p99": 1.644979,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 174.684639678
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.3344909999999999,
+      "min": 1.032433,
+      "avg": 1.0456714550000015,
+      "p90": 1.055205,
+      "p95": 1.061109,
+      "p99": 1.075157,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 131.096728146
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.678045,
+      "min": 0.182388,
+      "avg": 1.3528536980000012,
+      "p90": 1.488561,
+      "p95": 1.540813,
+      "p99": 1.631534,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 169.927437999
+    }
+  },
+  {
+    "creates": {
+      "errors": 0,
+      "max": 1.339191,
+      "min": 1.031094,
+      "avg": 1.0450332400000002,
+      "p90": 1.053284,
+      "p95": 1.058379,
+      "p99": 1.074181,
+      "name": "CreateNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 130.962836464
+    },
+    "searches": {
+      "errors": 0,
+      "max": 1.616894,
+      "min": 0.23192,
+      "avg": 1.3054630809999994,
+      "p90": 1.451393,
+      "p95": 1.485587,
+      "p99": 1.550087,
+      "name": "SearchNoticesTest",
+      "concurrency": 8,
+      "count": 1000,
+      "total_time": 163.977604622
+    }
+  }
+]

@@ -7,10 +7,7 @@ require './lib/errbit_loader'
 
 Dotenv.load('.env')
 
-results = {
-  creates: [],
-  searches: []
-}
+results = []
 
 run_report = ->(report){
   report.prepare
@@ -48,14 +45,14 @@ run_search = ->(){
 
 100.times do |count|
   puts "Run #{count + 1}"
-  # results[:creates] << run_report.call(run_create.call)
-  # results[:searches] << run_report.call(run_search.call)
-  # File.write("results/#{count}.json", JSON.pretty_generate(results))
 
-  creates = run_report.call(run_create.call)
-  searches = run_report.call(run_search.call)
-  File.write("results/#{count + 1}.json", JSON.pretty_generate({
-    creates: creates,
-    searches: searches
-  }))
+  results << {
+    creates: run_report.call(run_create.call),
+    searches: run_report.call(run_search.call)
+  }
+
+  File.write("results/partial-#{count + 1}.json",
+    JSON.pretty_generate(results.last))
 end
+
+File.write("results/out.json", JSON.pretty_generate(results))
